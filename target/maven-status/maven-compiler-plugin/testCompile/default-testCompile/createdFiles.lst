@@ -1,0 +1,4 @@
+com/uiautomation/steps/IotumSignupStep.class
+com/uiautomation/actions/IotumSignup.class
+com/uiautomation/pages/IotumSignupPage.class
+com/uiautomation/runners/IotumSignupTest.class
